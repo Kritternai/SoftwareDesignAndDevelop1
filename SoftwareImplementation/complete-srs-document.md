@@ -211,6 +211,7 @@
 | SEC-03 | การป้องกัน SQL Injection และ XSS | High |
 | SEC-04 | การล็อคบัญชีหลังล็อกอินผิด 5 ครั้ง | Medium |
 | SEC-05 | Session Timeout หลังไม่มีการใช้งาน 30 นาที | Medium |
+| SEC-06 | การบันทึก Log การใช้งานระบบ | Medium |
 
 ### 4.3 Usability Requirements
 
