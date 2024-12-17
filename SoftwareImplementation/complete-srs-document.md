@@ -98,11 +98,11 @@
 
 - Client Requirements:
   - สามารถเข้าถึงอินเทอร์เน็ตได้
-  - รองรับ Web Browser ที่ทันสมัย
+  - รองรับ Web Browser ที่ทันสมัย (Chrome, Firefox, Edge)
 
 ### 2.2 Software Requirements
 - Operating System: Windows Server 2019 หรือ Linux Server
-- Web Server: Apache หรือ Nginx
+- Web Server: Apache หรือ Nginx (เวอร์ชันล่าสุด)
 - Database: MySQL 8.0 หรือสูงกว่า
 - Programming Language: PHP 8.0 หรือสูงกว่า
 
